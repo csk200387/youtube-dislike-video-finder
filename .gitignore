@@ -1,0 +1,6 @@
+module/__pycache__/*
+client_secret.json
+response.json
+YDV-venv/*
+token.json
+report.html
